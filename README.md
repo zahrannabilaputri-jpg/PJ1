@@ -1,4 +1,4 @@
-# Pj1: Perception System Concept and Design (Deteksi Bola dan Ring untuk MicroDuck)
+# PJ1: Perception System Concept and Design (Deteksi Bola dan Ring untuk MicroDuck)
 
 **Mata kuliah:** RET503 Computer Vision and Deep Learning
 **Nama / NIM:** Zahra Nabila Putri / 4222401028
