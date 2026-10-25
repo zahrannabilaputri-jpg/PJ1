@@ -1,0 +1,4 @@
+eksperimen,perubahan,dataset,mAP50,mAP50_95,P,R,ms_GPU
+E1_pretrained,-,v1,0.987,0.669,0.927,0.989,6.885
+E2_scratch,bobot acak,v1,0.649,0.426,0.977,0.645,4.351
+E3_tuning,imgsz=640,v1,0.994,0.69,0.945,0.996,7.241
