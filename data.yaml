@@ -1,0 +1,9 @@
+# dataset_v1 - deteksi MicroDuck (BRAIL, 24 Sep 2026)
+path: /content/dataset_v1
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: backboard
+  1: ball
+  2: rim
